@@ -1,5 +1,10 @@
 Chrome Extension with React, TypeScript, TailwindCSS, and Vite
 
+To test it in chrome:
+
+1. npm run build
+2. load the output as unpacked in the extension page
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
